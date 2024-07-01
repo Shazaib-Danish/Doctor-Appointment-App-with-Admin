@@ -1,4 +1,6 @@
-### Doctor Appointment Flutter App with Laravel Admin Panel
+#### Doctor Appointment Flutter App with Laravel Admin Panel
+
+## Mobile App Features
 
 
 * Classified Doctors at home or at clinics.
@@ -17,3 +19,13 @@
 * Help & Support for customer and clinic’s owners
 * Favorites, Wishlist Doctors
 * Tracking and Filter Appointments
+
+## Admin Panel Features
+
+* Admin dashboards and statistics.
+* Multi Roles and Permission (Admin, Clinic Owner, Doctor, Customer).
+* Paypal Payments Gateway.
+* Multi-language Admin panel
+* Social media Authentications.
+* Medias & File Manager Integrated
+
