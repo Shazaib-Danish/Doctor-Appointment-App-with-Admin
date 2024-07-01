@@ -21,9 +21,9 @@
 * Tracking and Filter Appointments
 
 
-![Screenshots-1](https://github.com/Shazaib-Danish/doctor_appointment_app_with_admin/assets/75744833/25fb032e-9a0e-4332-a296-369a0d8d5fee)
+![Screenshots-1](https://github.com/Shazaib-Danish/doctor_appointment_app_with_admin/assets/75744833/25fb032e-9a0e-4332-a296-369a0d8d5fee) ![Screenshots-4](https://github.com/Shazaib-Danish/doctor_appointment_app_with_admin/assets/75744833/f8e28a81-2e42-4ee2-88f0-953ff06b2594)
 
-![Screenshots-4](https://github.com/Shazaib-Danish/doctor_appointment_app_with_admin/assets/75744833/f8e28a81-2e42-4ee2-88f0-953ff06b2594)
+
 
 ![Screenshots-5](https://github.com/Shazaib-Danish/doctor_appointment_app_with_admin/assets/75744833/eaf043e1-b91d-4b8a-a084-94864e79f017)
 
