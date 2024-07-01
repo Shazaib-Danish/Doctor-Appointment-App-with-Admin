@@ -1,4 +1,4 @@
-### Doctor Appointment App with Admin Panel
+### Doctor Appointment Flutter App with Laravel Admin Panel
 
 
 * Classified Doctors at home or at clinics.
