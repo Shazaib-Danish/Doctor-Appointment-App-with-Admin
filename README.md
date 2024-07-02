@@ -33,6 +33,11 @@
 ![Screenshots-doctors (1)](https://github.com/Shazaib-Danish/doctor_appointment_app_with_admin/assets/75744833/cae5ffb2-5465-4783-a031-32adb4509a02)
 
 
+<img width="1440" alt="Screenshot 2024-07-02 at 3 28 57 PM" src="https://github.com/Shazaib-Danish/doctor_appointment_app_with_admin/assets/75744833/41427a5c-b909-40b4-a60c-0a7515a3b1cf">
+
+
+#### Try Admin Demo https://doctors.smartersvision.com
+
 ## Admin Panel Features
 
 * Admin dashboards and statistics.
